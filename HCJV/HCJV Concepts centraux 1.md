@@ -63,5 +63,43 @@ Quelques éléments que vous devez retenir/envisager :
 :::
 ___
 ### Définissons le mot **jeu** / **Game** :
+:::yellow Activité relativement divertissante et amusante
+:::
 
+En fonction de ce qu'englobe nos définitions, tout ce contredits (opposition entre jeu et jouet)...
 
+:::green Définition : 
+Réduit à son essence  formelle, un jeu est une activité entre deux ou plusieurs décideurs indépenants qui cherchent à atteindre leurs objectifs dans un contexte restrictif. Une définition plus conventionnelle dirait qu'un jeu est un contexte avec des règles entre des adversaires qui tentent d'atteindre des objectifs. (Abt, 1970: 6)
+:::
+
+Définition de **Crawford** : Un système formel complet et autosuffisant en tant que structure, régi par des règles explicites, qui représente subjectivement un échantillon de la réalité, fournissant au joueur des éléments d'interactivité. Chaque jeu implique un conflit (au sens le plus large du terme), le joueur doit donc poursuivre des objectifs en surmontant des obstacles, tout en étant dans un espace sûr dans lequel il peut faire l'expérience de la réalité en toute sécurité. (Crawford, 1984)
+
+Définition de **Parlett** : 
+- Jeux informels : une forme non dirigée de play.
+- Jeux formels : une structure en deux parties, basée sur des fins et des moyens ; les fins sont des luttes (contests) pour accomplir un objectif, et les moyens sont des ensembles d'équipements et de règles selon lesquelles les équipements peuvent être manipulés afin d'atteindre une situation de victoire (Parlett, 1999: 1-3)
+
+Définition de **Salen and Zimmerman** : 
+- Game : [...] un système dans lequel des joueurs s'engagent dans un conflit artificiel, défini par des règles, qui aboutit à un résultat quantifiable (Salen and Zimmerman, 2004: 80)
+- Play : un mouvement libre à l'intérieur d'une structure plus rigide (2004: 304)
+
+### L'exception qui ne confirme pas la règle
+Tentez de trouver des jeux qui ne correspondent pas à ces définitions.
+:::yellow Les sandBox : Garry's mod, Terraria, Minecraft...
+:::
+
+Tentez de trouver des objects qui ne sont pas des jeux, mais qui correspondent à ces définitions.
+:::yellow 
+:::
+
+**Henriot et l'attitude ludique** propose une définition non pas essentialiste mais relativiste.
+
+Un objet n'est un pas un jeu dans son essence, mais est considéré comme un jeu par une communauté, dans un temps et un espace spécifiques. (Henriot, 1969: 20)
+
+Ce qui fait qu'un objet est un jeu, c'est que nous adoptons (ou non) une attitude ludique à son égard.
+
+**3 caractéristiques tout de même** : 
+- **Incertitude** : nous ne connaîtrons pas le résultat exact du jeu avant la fin.
+- **Duplicité** : nous sommes conscient que nous jouons lorsque nous le faisons.
+- **Illusion** : nous nous absorbons dans le jeu.
+
+**Certains objets** sont plus propices que d'autres à l'adoption d'une attitude ludique. Les situations et kes objets ont des degrés de jouabilité. (Genvo, 2013:5)
