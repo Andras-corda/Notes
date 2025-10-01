@@ -1,9 +1,26 @@
 # 📚 Notes de cours – Théorie du Jeu vidéo
 
-## HCJV - Histoire et culture des jeux vidéo, 100h Th, GODFIRNON Maxime, HOULMONT Pierre-Yves, MICHEL Nicolas (6c)
+## HCJV - Histoire et culture des jeux vidéo.
+GODFIRNON Maxime
+HOULMONT Pierre-Yves
+MICHEL Nicolas
 
-## OCJV - Outils créatifs, 100h Th, ADANS Paschal, DANIEL Fabrice, GILSON Gaël, GODFIRNON Maxime (7c)
+## OCJV - Outils créatifs.
+ADANS Paschal
+DANIEL Fabrice
+GILSON Gaël
+GODFIRNON Maxime
 
-## INPA - Initiation aux pratiques artistiques, BERHIN Pierre-Yves, LAMMERANT Ivan, LIERA Thomas, MARLIÈRE Pauline, MÉLARD Francois-Xavier (6c)
+## INPA - Initiation aux pratiques artistiques.
+BERHIN Pierre-Yves
+LAMMERANT Ivan
+LIERA Thomas
+MARLIÈRE Pauline
+MÉLARD Francois-Xavier
 
-## INML - Initiation aux moteurs et logiciels, CHAPELLE Joakim, DUBOIS Caroline, ERNAELSTEN Raphaël, REMY Gilles, VALEMBOIS Quentin (7c)
+## INML - Initiation aux moteurs et logiciels.
+CHAPELLE Joakim
+DUBOIS Caroline
+ERNAELSTEN Raphaël
+REMY Gilles
+VALEMBOIS Quentin 
